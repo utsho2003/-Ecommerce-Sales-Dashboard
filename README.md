@@ -3,7 +3,11 @@
 ## 🔗 Project Overview
 
 This project builds an interactive Ecommerce Sales Dashboard using Microsoft Power BI and Excel to analyze online sales performance. Excel was used for initial data storage and preparation, while Power BI was used for data modeling, analysis, and visualization. The dashboard helps track key metrics such as sales amount, profit, quantity sold, and customer insights.
+---
 
+## 📷 Dashboard Preview
+
+![Ecommerce Sales Dashboard]("Screenshot 2026-02-21 233347.png")
 ---
 
 ## 📂 Dataset
